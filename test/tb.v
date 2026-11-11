@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_DeliaVP_Proyecto (
+  tt_um_DeliaVP_ProyectoDelia (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
